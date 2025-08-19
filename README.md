@@ -1,4 +1,10 @@
 # E-Commerce
+🛒 E-Commerce Web Application
+
+A responsive E-Commerce web application built with React.js that allows users to browse products, search by name, filter by brand & category, view product details, and manage their shopping cart.
+
+🔗 Live Demo: https://abhijith24922.github.io/E-Commerce/
+
 🚀 Features
 
 📦 Dynamic product listings fetched from a REST API (FakeStore API).
