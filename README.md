@@ -17,11 +17,13 @@
 
 🌐 Deployed on GitHub Pages for easy access.
 
+
 🛠️ Technologies Used
 
 Frontend: React.js, JavaScript, CSS
 
 API: FakeStore REST API
+
 
 📌 Future Improvements
 
