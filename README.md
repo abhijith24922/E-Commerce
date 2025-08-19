@@ -1,5 +1,6 @@
 # E-Commerce
 🚀 Features
+
 📦 Dynamic product listings fetched from a REST API (FakeStore API).
 🔍 Search functionality for quick product discovery.
 🏷️ Brand & category filters for better browsing.
